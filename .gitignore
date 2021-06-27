@@ -1,0 +1,15 @@
+# mac
+.DS_Store
+
+# node
+node_modules
+
+# product
+dist
+build
+
+# ignore
+ignore
+
+# env
+.env
