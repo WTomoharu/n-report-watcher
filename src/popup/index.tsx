@@ -1,10 +1,14 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import { App } from "@/popup/app";
 
 const Page: React.FC = () => {
   return (
     <>
-      <h1>Hello World!</h1>
+      {/* max-width: 800, max-height: 600 */}
+      <div style={{ width: 500, height: 600 }}>
+        <App />
+      </div>
     </>
   )
 }

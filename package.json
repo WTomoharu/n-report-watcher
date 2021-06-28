@@ -4,7 +4,10 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "preact": "^10.5.13"
+    "gridjs": "^5.0.2",
+    "gridjs-react": "^4.0.0",
+    "preact": "^10.5.13",
+    "react-hook-form": "^7.9.0"
   },
   "devDependencies": {
     "@types/chrome": "^0.0.145",
